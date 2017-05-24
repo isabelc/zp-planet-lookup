@@ -1,14 +1,18 @@
 === ZodiacPress Planet Lookup ===
 Contributors: isabel104
 Requires at least: 4.3
-Tested up to: 4.7
-Stable tag: 1.1
+Tested up to: 4.8-beta2-40826
+Stable tag: 1.1.1
 License: GNU Version 2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extension for ZodiacPress to lookup the sign of one planet or point.
 
 == Changelog ==
+
+= 1.1.1 =
+
+* Tweak - The 'Look Up Another' link will now be displayed on its own line.
 
 = 1.1 =
 
