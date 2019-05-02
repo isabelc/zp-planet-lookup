@@ -1,14 +1,19 @@
 === ZodiacPress Planet Lookup ===
 Contributors: isabel104
 Requires at least: 4.3
-Tested up to: 5.0-alpha-42606
-Stable tag: 1.2
+Tested up to: 5.2
+Stable tag: 1.3
 License: GNU Version 2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extension for ZodiacPress to lookup the sign of one planet or point.
 
 == Changelog ==
+
+= 1.3 =
+
+* New - add setting to the Planet Lookup tab to allow unknown birth time.
+* API - zppl_remove_report_header() is no longer needed because report header is not included in custom reports by default anymore.
 
 = 1.2 =
 
