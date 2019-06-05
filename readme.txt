@@ -10,6 +10,9 @@ Extension for ZodiacPress to lookup the sign of one planet or point.
 
 == Changelog ==
 
+= 1.4 =
+* New - Removed form title filter because it is no longer needed with ZP 2.0.
+
 = 1.3.2 =
 
 * Fix - Fixed a bug with the updater. Nothing changed in the code base.
